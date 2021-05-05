@@ -4,7 +4,7 @@ I am a student at Lahore University of Management Sciences majoring in Computer 
 
 <h3>What Do I Do?</h3>
 
-<div>
+<div display="inline-block">
 <img src="webdevelopment.png" width="35px" height="35px" float="left" display="inline-block">
     <p float="right" display="inline-block">Web Development</p>
 
