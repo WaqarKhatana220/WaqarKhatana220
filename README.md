@@ -11,6 +11,7 @@ I am a student at Lahore University of Management Sciences majoring in Computer 
 <h3>Languages and Tools</h3>
 
 <img src="https://github.com/hussainweb/hussainweb/blob/main/icons/csharp.png">
+<img src="<img src="https://github.com/hussainweb/hussainweb/blob/main/icons/csharp.png">
 
 
 
