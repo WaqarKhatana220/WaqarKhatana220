@@ -4,6 +4,9 @@ I am a student at Lahore University of Management Sciences majoring in Computer 
 
 <h3>What Do I Do?</h3>
 
+🕸️ Web Development
+🎮 Game Development
+
 <div>
         <img src="webdevelopment.png" width="35px" height="35px" align="left">
         <p float="right">Web Development</p>
@@ -13,7 +16,7 @@ I am a student at Lahore University of Management Sciences majoring in Computer 
         <p float="right">Game Development</p>
 </div>
 
-* :wave:
+
 
 <a href="https://www.instagram.com/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
