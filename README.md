@@ -5,12 +5,8 @@ I am a student at Lahore University of Management Sciences majoring in Computer 
 <h3>What Do I Do?</h3>
 
 <div>
-    <div float="left">
-        <img src="webdevelopment.png" width="35px" height="35px" float="left">
-    </div>
-    <div float="right">
-        <p>Web Development</p>
-    </div> 
+        <img src="webdevelopment.png" width="35px" height="35px" display="inline">
+        <p display="inline">Web Development</p>
 </div>
 
 <a href="https://www.instagram.com/" target="_blank">
