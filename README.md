@@ -1,5 +1,6 @@
 # Hi there, I'm Waqar 👋
-## Nice to meet you, let's connect
+
+<p> Nice to meet you, let's connect </P>
 
 <a href="https://www.instagram.com/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -9,6 +10,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+### My GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WaqarKhatana220&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 
