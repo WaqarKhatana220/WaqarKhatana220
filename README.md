@@ -6,7 +6,7 @@ I am a student at Lahore University of Management Sciences majoring in Computer 
 
 <div>
     <div float="left">
-        <img src="webdevelopment.png" width="35px" height="35px" align="left">
+        <img src="webdevelopment.png" width="35px" height="35px">
     </div>
     <div float="right">
         <p>Web Development</p>
