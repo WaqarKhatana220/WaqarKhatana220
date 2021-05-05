@@ -8,6 +8,10 @@ I am a student at Lahore University of Management Sciences majoring in Computer 
         <img src="webdevelopment.png" width="35px" height="35px" align="left">
         <p float="right">Web Development</p>
 </div>
+<div>
+        <img src="unity.png" width="35px" height="35px" align="left">
+        <p float="right">Game Development</p>
+</div>
 
 <a href="https://www.instagram.com/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
