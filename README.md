@@ -10,7 +10,9 @@ I am a student at Lahore University of Management Sciences majoring in Computer 
 
 <h3>Languages and Tools</h3>
 
-![Hub](github.png)
+![GitHub](git.png)
+
+![GitHub](github.png)
 
 
 
