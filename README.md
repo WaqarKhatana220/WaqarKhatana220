@@ -2,7 +2,10 @@
 
 I am a student at Lahore University of Management Sciences majoring in Computer Science.
 
-<h1>Things I am interested in:</h1>
+<h3>What Do I Do?</h3>
+
+<img src="">
+
 
 <a href="https://www.instagram.com/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
