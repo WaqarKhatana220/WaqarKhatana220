@@ -13,7 +13,6 @@ I am a student at Lahore University of Management Sciences majoring in Computer 
 ![python](python.png)
 ![csharp](csharp.png)
 ![react](react.png)
-![unity](unity.png)
 ![Gi](git.png)
 ![GitHub](github.png)
 
