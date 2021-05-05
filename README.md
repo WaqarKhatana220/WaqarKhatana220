@@ -10,8 +10,11 @@ I am a student at Lahore University of Management Sciences majoring in Computer 
 
 <h3>Languages and Tools</h3>
 
-![GitHub](git.png)
-
+![python](python.png)
+![csharp](csharp.png)
+![react](react.png)
+![unity](unity.png)
+![Gi](git.png)
 ![GitHub](github.png)
 
 
