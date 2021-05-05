@@ -5,16 +5,14 @@ I am a student at Lahore University of Management Sciences majoring in Computer 
 <h3>What Do I Do?</h3>
 
 🕸️ Web Development
+
 🎮 Game Development
 
-<div>
-        <img src="webdevelopment.png" width="35px" height="35px" align="left">
-        <p float="right">Web Development</p>
-</div>
-<div>
-        <img src="unity.png" width="35px" height="35px" align="left">
-        <p float="right">Game Development</p>
-</div>
+<h3>Languages and Tools</h3>
+
+<img src="https://github.com/hussainweb/hussainweb/blob/main/icons/csharp.png">
+
+
 
 
 
