@@ -4,13 +4,13 @@ I am a student at Lahore University of Management Sciences majoring in Computer 
 
 <h3>What Do I Do?</h3>
 
-<div display="inline-block">
+<div>
     <div float="left">
-        <img src="webdevelopment.png" width="35px" height="35px">
+        <img src="webdevelopment.png" width="35px" height="35px" align="left">
     </div>
-    <div float="right">
+    <div float="right" align="right">
         <p>Web Development</p>
-    </div>
+    </div> 
 </div>
 
 <a href="https://www.instagram.com/" target="_blank">
