@@ -23,9 +23,7 @@ I am a student at Lahore University of Management Sciences majoring in Computer 
 </a>
 
 
-### Wanna Contact Me?
-
-<a href ="https://webwithwaqar.blogspot.com/" target="_blank">C'mon</a>
+<input type="button" value="Portfiolio">
 
 ### My GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WaqarKhatana220&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
