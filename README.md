@@ -22,8 +22,9 @@ I am a student at Lahore University of Management Sciences majoring in Computer 
 </a>
 
 <a href="https://www.linkedin.com/in/waqar-ul-haq-khatana-7a4168168/" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 ### GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WaqarKhatana220&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
