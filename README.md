@@ -27,10 +27,6 @@ I am a student at Lahore University of Management Sciences majoring in Computer 
     <img src="https://img.shields.io/badge/-Portfolio-yellow?&style=for-the-badge&logo=portfolio&logoColor=white" />
 </a>
 
-<a href="waqar_resume.pdf">
-    <img src="https://img.shields.io/badge/-Resume-yellow?&style=for-the-badge&logo=portfolio&logoColor=white" />
-</a>
-
 ### GitHub Stats
 
 [![waqar's GitHub stats](https://github-readme-stats.vercel.app/api?username=WaqarKhatana220&theme=gotham)](https://github.com/WaqarKhatana220/github-readme-stats)
