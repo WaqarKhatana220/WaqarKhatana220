@@ -30,7 +30,3 @@ I am a student at Lahore University of Management Sciences majoring in Computer 
 ### GitHub Stats
 
 [![waqar's GitHub stats](https://github-readme-stats.vercel.app/api?username=WaqarKhatana220&theme=gotham)](https://github.com/WaqarKhatana220/github-readme-stats)
-
-![](https://komarev.com/ghpvc/?username=WaqarKhatana220&label=profile+views&color=green&style=flat-square)
-
-
