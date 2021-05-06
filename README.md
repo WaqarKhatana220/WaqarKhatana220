@@ -22,7 +22,7 @@ I am a student at Lahore University of Management Sciences majoring in Computer 
 </a>
 
 <a href="#">
-    <img src="https://img.shields.io/badge/portfolio-%230077B5.svg?&style=for-the-badge&logo=portfolio&logoColor=white" />
+    <img src="https://img.shields.io/badge/portfolio-%230077B5.svg?&style=for-the-badge&logo=portfolio&logoColor=red" />
 </a>
 
 ### GitHub Stats
