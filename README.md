@@ -3,7 +3,7 @@
 I am a student at Lahore University of Management Sciences majoring in Computer Science.
 
 
-<div width="50%" align="left">
+<div width="30%" align="left">
     
 <h3>What Do I Do?</h3>
 
@@ -32,7 +32,7 @@ I am a student at Lahore University of Management Sciences majoring in Computer 
 
 </div>
 
-<div width="50%" align="right">
+<div width="70%" align="right">
 
 ### GitHub Stats
 
