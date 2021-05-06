@@ -31,7 +31,7 @@ I am a student at Lahore University of Management Sciences majoring in Computer 
 
 </div>
 
-<div width="70%" align="right">
+<div width="10%" align="right">
 
 ### GitHub Stats
 
