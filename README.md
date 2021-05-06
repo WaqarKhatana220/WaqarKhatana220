@@ -17,12 +17,12 @@ I am a student at Lahore University of Management Sciences majoring in Computer 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/waqar-ul-haq-khatana-7a4168168/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Portfolio-yellow" />
+<a href="https://www.instagram.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Linkedin-E4405F?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="#">
-    <img src="https://img.shields.io/badge/portfolio-%230077B5.svg?&style=for-the-badge&logo=website&logoColor=red" />
+    <img src="https://img.shields.io/badge/Portfolio-portfolio-style=for-the-badge&logo=portfolio&logoColor=white" />
 </a>
 
 ### GitHub Stats
