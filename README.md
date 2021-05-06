@@ -3,7 +3,7 @@
 I am a student at Lahore University of Management Sciences majoring in Computer Science.
 
     
-<div display="inline-block">    
+<div width="800" display="flex">    
     
 <div align="left" width="300">
 
