@@ -18,7 +18,7 @@ I am a student at Lahore University of Management Sciences majoring in Computer 
 </a>
 
 <a href="https://www.linkedin.com/in/waqar-ul-haq-khatana-7a4168168/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Portfolio-yellow" />
 </a>
 
 <a href="#">
