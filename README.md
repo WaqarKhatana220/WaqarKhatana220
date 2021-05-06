@@ -22,7 +22,7 @@ I am a student at Lahore University of Management Sciences majoring in Computer 
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="#" class="button">
+<a href="#" class="button">Post comment (link)</a>
 
 ### My GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WaqarKhatana220&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
