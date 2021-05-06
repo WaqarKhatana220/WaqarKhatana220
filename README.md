@@ -1,10 +1,11 @@
 # Hi there, I'm Waqar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+    
 
 
 <div>
 <div width="30%" align="left">
     
-    I am a student at Lahore University of Management Sciences majoring in Computer Science.
+I am a student at Lahore University of Management Sciences majoring in Computer Science.
 
     
 <h3>What Do I Do?</h3>
