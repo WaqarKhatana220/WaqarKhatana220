@@ -23,7 +23,7 @@ I am a student at Lahore University of Management Sciences majoring in Computer 
 </a>
 
 
-<input type="button" value="Portfiolio">
+<button>Portfolio</button>
 
 ### My GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WaqarKhatana220&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
