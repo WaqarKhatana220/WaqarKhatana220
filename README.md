@@ -2,6 +2,8 @@
 
 I am a student at Lahore University of Management Sciences majoring in Computer Science.
 
+
+<div width="50%">
 <h3>What Do I Do?</h3>
 
 🕸️ Web Development
@@ -27,8 +29,10 @@ I am a student at Lahore University of Management Sciences majoring in Computer 
     <img src="https://img.shields.io/badge/-Portfolio-yellow?&style=for-the-badge&logo=portfolio&logoColor=white" />
 </a>
 
+</div>
+
+<div width="50%">
 ### GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WaqarKhatana220&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-
-
+</div>
 
