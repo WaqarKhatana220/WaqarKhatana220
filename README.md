@@ -31,12 +31,11 @@ I am a student at Lahore University of Management Sciences majoring in Computer 
 
 </div>
 
-<div align="right">
-
+<p align="right">
 ### GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WaqarKhatana220&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
+</p>
 
 </div>
