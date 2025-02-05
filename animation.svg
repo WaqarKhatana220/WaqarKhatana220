@@ -9,30 +9,30 @@
 
   <!-- Command text (static part) -->
   <text x="20" y="60" font-family="monospace" font-size="16" fill="#FFFFFF">
-    khatana:~$ pip install khatana_info_
+    khatana:~$ pip install khatana
   </text>
 
   <!-- Fake installation progress animation (appearing and blinking one-by-one) -->
   <text x="20" y="90" font-family="monospace" font-size="16" fill="#FFFFFF" visibility="hidden">
-    khatana:~$ Collecting khatana_info...
+    khatana:~$ Collecting khatana...
     <set attributeName="visibility" to="visible" begin="1s"/>
     <animate attributeName="opacity" values="0;1;0" dur="1s" repeatCount="2" begin="1s"/>
   </text>
 
   <text x="20" y="120" font-family="monospace" font-size="16" fill="#FFFFFF" visibility="hidden">
-    khatana:~$ Downloading khatana_info-1.0.0.tar.gz (15 kB)
+    khatana:~$ Downloading khatana-1.0.0.tar.gz (15 kB)
     <set attributeName="visibility" to="visible" begin="3.1s"/>
     <animate attributeName="opacity" values="0;1;0" dur="1s" repeatCount="2" begin="3.1s"/>
   </text>
 
   <text x="20" y="150" font-family="monospace" font-size="16" fill="#FFFFFF" visibility="hidden">
-    khatana:~$ Installing collected packages: khatana_info
+    khatana:~$ Installing collected packages: khatana
     <set attributeName="visibility" to="visible" begin="5.2s"/>
     <animate attributeName="opacity" values="0;1;0" dur="1s" repeatCount="2" begin="5.2s"/>
   </text>
 
   <text x="20" y="180" font-family="monospace" font-size="16" fill="#00FF00" visibility="hidden">
-    khatana:~$ Successfully installed khatana_info-1.0.0
+    khatana:~$ Successfully installed khatana-1.0.0
     <set attributeName="visibility" to="visible" begin="7.3s"/>
   </text>
 
