@@ -1,3 +1,3 @@
 <picture>
-<img src="animation.svg" alt="Animation SVG">
+<img src="https://github.com/WaqarKhatana220/WaqarKhatana220/blob/main/animation.svg" alt="Animation SVG">
 </picture>
