@@ -20,3 +20,21 @@
     </td>
   </tr>
 </table>
+
+<style>
+  table td {
+    border: none !important;
+  }
+</style>
+<table>
+  <tbody>
+    <tr>
+      <td>Column One</td>
+      <td>Column One</td>
+    </tr>
+    <tr>
+      <td>Content of column one</td>
+      <td>Content of column two</td>
+    </tr>
+  </tbody>
+</table>
