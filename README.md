@@ -38,3 +38,20 @@
     </tr>
   </tbody>
 </table>
+<style>
+  table#example-table td {
+    border: none;
+  }
+</style>
+<table id="example-table">
+  <tbody>
+    <tr>
+      <td>Column One</td>
+      <td>Column One</td>
+    </tr>
+    <tr>
+      <td>Content of column one</td>
+      <td>Content of column two</td>
+    </tr>
+  </tbody>
+</table>
