@@ -1,8 +1,12 @@
 <picture>
   <img src="https://github.com/WaqarKhatana220/WaqarKhatana220/blob/main/animation.svg" alt="Animation SVG">
 </picture>
-
-<table style="border-collapse: collapse; border: none;">
+<style>
+  table#buttons-table td {
+    border: none;
+  }
+</style>
+<table id="buttons-table">
   <tr>
     <td style="border: none;">
       <a href="https://www.w3schools.com/tags/tag_a.asp">
